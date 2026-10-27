@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Database
+*.db
+backend/data/*.db
+
+# Node / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets and local configuration
+.env.*
+!.env.example
+!.env.sample
+
+# Python environments
+.venv/
+
+# Uploaded resumes and generated files
+uploads/
+backend/uploads/
+data/
+backend/data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env.*
+!.env.example
+!.env.sample
+
+# Python environments
+.venv/
+
+# Uploaded resumes and generated files
+uploads/
+backend/uploads/
+data/
+backend/data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
